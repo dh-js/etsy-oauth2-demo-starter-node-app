@@ -1,0 +1,19 @@
+{
+  "name": "etsy-oauth2-starter-express-node-app",
+  "version": "1.0.0",
+  "description": "A starter express node app with OAuth2 implementation for the Etsy Open API V3",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "hbs": "^4.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
